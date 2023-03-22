@@ -1,3 +1,6 @@
+<!-- <div id="header" align="center">
+  <img src="https://drive.google.com/file/d/1owgb-_9AnAM0N5fw2sNMCOHsqahzFKcJ/view?usp=share_link" width="200"/>
+</div> -->
 <h1 align="center">Hi explorer, This is Pratyush Barik</h1>
 <h3 align="center">Discover</h3>
 
