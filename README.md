@@ -1,4 +1,4 @@
-<div id="header" align="center">
+/*<div id="header" align="center">
   <img src="GIF.gif" width="200"/>
 </div>
 <h1 align="center">Hi explorer, This is Pratyush Barik</h1>
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushbarikpb&show_icons=true&locale=en&theme=dark&background=000000" alt="pratyushbarikpb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushbarikpb&theme=dark&background=000000" alt="pratyushbarikpb" /></p>
+*/
